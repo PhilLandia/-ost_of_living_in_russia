@@ -14,14 +14,14 @@ The goal of this project is to provide a visual representation of the cost of li
 ## **Project Structure**
 
 - **`data/`** - directory containing data on the cost of goods, services, and housing.
-- **`maps/`** - directory with maps for each subject of the Russian Federation.
+- **`layouts/`** - directory with maps for each subject of the Russian Federation.
 - **`README.md`** - this file providing project description.
 
 ## **Usage**
 
 1. Clone the repository to your computer.
 2. Familiarize yourself with the data in the **`data/`** directory.
-3. Study the generated maps in the **`maps/`** directory for cost of living analysis.
+3. Study the generated maps in the **`layouts/`** directory for cost of living analysis.
 
 ## **License**
 
