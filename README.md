@@ -27,4 +27,4 @@ The goal of this project is to provide a visual representation of the cost of li
 
 ## **License**
 
-The project is distributed under the **[MIT License](https://github.com/PhilLandia/Cost_of_living_in_Russia/License)**, allowing free use and modification of the code with attribution.
+The project is distributed under the **[MIT License](https://github.com/PhilLandia/Cost_of_living_in_Russia/blob/main/LICENSE)**, allowing free use and modification of the code with attribution.
