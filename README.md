@@ -1,5 +1,8 @@
 # Collection of maps "Cost of living in the subjects of the Russian Federation"
 This project is a collection of thematic maps that show statistics on the cost of goods, services and housing in various regions of the Russian Federation.
+## **Example**
+![](./layouts/2022.png)
+
 ## **Objective**
 
 The goal of this project is to provide a visual representation of the cost of living in different regions of Russia. Using collected data and interactive maps, users can analyze the dynamics of price changes and compare the economic conditions between different regions.
