@@ -10,7 +10,7 @@ The goal of this project is to provide a visual representation of the cost of li
 ## **Key Features**
 
 - Utilization of a tiled map of the Russian Federation for easy data visualization.
-- Data about the cost of goods, services, and housing is sourced from the Unified Interdepartmental Information and Statistical System (UIISS).
+- Data about **[the cost of goods, services](https://www.fedstat.ru/indicator/31052)**, and **[housing](https://www.fedstat.ru/indicator/31452)**  is sourced from the Unified Interdepartmental Information and Statistical System (UIISS).
 - Analysis is based on the cost of a fixed set of consumer goods and services per month, as well as the average price per square meter of total area for apartments in the housing market.
 - The project enables tracking price dynamics and analyzing cost of living variations among Russian subjects.
 
